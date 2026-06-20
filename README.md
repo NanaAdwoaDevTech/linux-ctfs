@@ -1,3 +1,5 @@
+<img width="953" height="904" alt="{D563911B-AFD7-4687-8EB2-F0FB6BDC8FA4}" src="https://github.com/user-attachments/assets/6b2873c3-cc69-4fac-970b-b64b36440d40" />
+
 # Phase 1: Linux Command Line CTF Challenge
 
 Test your Linux command line skills with 18 progressive Capture The Flag challenges. All flags follow the format `CTF{some_text_here}`.
